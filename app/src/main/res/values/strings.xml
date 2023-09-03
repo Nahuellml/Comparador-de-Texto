@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Comparador de Texto</string>
+    <string name="titulo">Comparador de Texto</string>
+    <string name="hint1">escribir primera palabra…</string>
+    <string name="hint2">escribir segunda palabra…</string>
+    <string name="textbutton">Comparar</string>
+    <string name="resultado">""</string>
+    <string name="faltaRellenar">Por favor ingresa texto en ambos campos</string>
+    <string name="iguales">Los textos son iguales</string>
+    <string name="diferentes">Los textos son diferentes</string>
+</resources>
